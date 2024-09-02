@@ -80,6 +80,6 @@ Potential areas for future exploration include:
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.0.0
 - Jupyter Notebook or any Python IDE
 - Required Python libraries 
